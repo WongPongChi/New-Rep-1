@@ -1,9 +1,8 @@
-tmp/
-_
-old
+private/
+*tmp/
+*Thumbs.db 
+*.DS_Store
 
-_backup
-
-Thumbs.db
-
-.DS_Store
+private
+*_old
+*_backup
